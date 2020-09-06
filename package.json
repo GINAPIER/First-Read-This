@@ -1,0 +1,22 @@
+{
+  "name": "first-read-this",
+  "version": "1.0.0",
+  "description": "a node application thats generate readme files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GINAPIER/First-Read-This.git"
+  },
+  "author": "GINAPIER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GINAPIER/First-Read-This/issues"
+  },
+  "homepage": "https://github.com/GINAPIER/First-Read-This#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
